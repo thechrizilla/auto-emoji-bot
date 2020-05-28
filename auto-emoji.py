@@ -32,4 +32,4 @@ async def on_message(message):
 
 
 
-client.run('NzE1NjM3MjM0ODk1OTQ1ODQ5.XtAHgA.a9evdjYaqXN2EdoXb34cBT38DYU')
+client.run(token)
